@@ -14,6 +14,7 @@ function App() {
         min="1"
         max="100"
         step="1"
+        className="progress-input"
         value={percentage}
         onChange={(e) => setPercentage(e.target.value)}
       />

@@ -5,6 +5,15 @@
   --color3: #f64f59;
 }
 
+svg {
+  width: 30vw;
+}
+
+.progress-input {
+  width: 30vw;
+  margin-top: 30px;
+}
+
 .circle-background {
   fill: none;
   stroke: #ddd;
@@ -12,7 +21,6 @@
 
 .circle-progress {
   fill: none;
-  stroke: var(--color1);
   stroke-linecap: round;
   stroke-linejoin: round;
 }
