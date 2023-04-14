@@ -31,6 +31,7 @@ export default function CircularProgressBar({ percentage, circleWidth }) {
           }}
           transform={`rotate(-90 ${circleWidth / 2} ${circleWidth / 2})`}
         />
+        <text x="50%" y="50%" dy="0.3em" textAnchor="middle" className="circle-text" >{percentage}%</text>
       </svg>
     </div>
   );
