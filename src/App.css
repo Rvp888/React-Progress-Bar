@@ -25,6 +25,7 @@ svg {
   border-radius: 50%;
   background-color: black;
   cursor: pointer;
+  box-shadow: 1px 1px 4px 3px rgba(85, 85, 85, 0.7);
 }
 
 .circle-background {
