@@ -5,3 +5,12 @@
   --color3: #f64f59;
 }
 
+.circle-background {
+  fill: none;
+  stroke: #ddd;
+}
+
+.circle-progress {
+  fill: none;
+  stroke: var(--color1);
+}

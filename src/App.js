@@ -4,6 +4,7 @@ import CircularProgressBar from "./CircularProgressBar";
 
 function App() {
   const [percentage, setPercentage] = useState(35);
+  
 
   return (
     <div className="App">
