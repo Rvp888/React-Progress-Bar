@@ -17,3 +17,7 @@
   stroke-linejoin: round;
 }
 
+.circle-text {
+  font-size: 3rem;
+  font-weight: bold;
+}
